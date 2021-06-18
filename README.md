@@ -20,18 +20,29 @@ npm install bootstrap
 
 <section id="video">
   <p>
-    <a href="https://youtu.be/cFgoSrOui2M">
+    <a href="https://youtu.be/cFgoSrOui2M" target="_blank">
       Clique aqui e assista o vídeo completo ensinando como criar um projeto React Auth com Firebase.
     </a>
   </p>
 </section>
 
 #### ________________________________________________________________________________________________________________________
-     
+  
+_Não seja melhor que os outros, supere a si mesmo!_<br>
+_Desconhecido_ <br><br>
 
 - [ ] Nunca tente.
 - [ ] Jamais tente.
 - [x] Sempre tente! Você vai conseguir com toda certeza!
+<br><br>
+
+_Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar._ <br>
+_Alan Turing_
+
+_Nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer._<br>
+_Alan Turing_ <br><br>
+
+#### ________________________________________________________________________________________________________________________
 
 <footer>
     <p>
